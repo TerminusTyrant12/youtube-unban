@@ -1,0 +1,10 @@
+# youtube-unban
+
+YouTube тормозит из‑за DPI. youtube-unban обходит это на Windows 10/11 одним .bat файлом.
+
+YouTube тормозит из‑за DPI. youtube-unban обходит это на Windows 10/11 одним .bat файлом. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/TerminusTyrant12/youtube-unban/releases/latest
+Код: https://github.com/TerminusTyrant12/youtube-unban
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/TerminusTyrant12/youtube-unban
